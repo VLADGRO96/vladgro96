@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vladgro96.vladgro96" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladgro96&show_icons=true)](https://github.com/vladgro96/github-readme-stats&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladgro96&layout=compact)](https://github.com/vladgro96/github-readme-stats&layout=compact)
