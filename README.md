@@ -2,13 +2,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Vladyslav!;Front-End+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&width=435&lines=Hi+There+I'm+Vladyslav!;Front-End+Dev+%26+Freelancer" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center"> 
   <a href="mailto:groha.vlad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.fiverr.com/vladislav_groha">
+    <img src="https://img.shields.io/badge/fiverr-%231DBF73?style=for-the-badge&logo=fiverr&logoColor=%23fff&color=%231DBF73" />
   </a>
   <a href="https://linkedin.com/in/vladyslav-hrokha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
